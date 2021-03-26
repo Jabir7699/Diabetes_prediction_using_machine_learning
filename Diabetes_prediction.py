@@ -195,4 +195,4 @@ print(lgr_test,lgr_train)
 model_lgr.predict_proba(X_test)
 
 
-# We can see that patient at index 0 has a 92.5% chance of absence of diabetes, while patient at index 1 has a 80.1% predicted chance of having diabetes.
+
